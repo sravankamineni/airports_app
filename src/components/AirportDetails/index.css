@@ -1,0 +1,32 @@
+.terminal-cont{
+    padding: 40px;
+}
+
+
+.card-cont{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    padding-left: 0px;
+  
+}
+
+.card{
+    display: flex;
+    width: 300px;
+    border: 1px solid #000;
+    margin-right: 25px;
+}
+
+.card-desc{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.services-cont{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    padding-left: 0px;
+}
